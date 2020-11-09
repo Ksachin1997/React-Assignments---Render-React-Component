@@ -1,5 +1,5 @@
 {
-  "name": "react-boilerplate",
+  "name": "assign",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -49,5 +49,13 @@
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0",
     "xml-js": "^1.6.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ksachin1997/React-Assignments---Render-React-Component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ksachin1997/React-Assignments---Render-React-Component/issues"
+  },
+  "homepage": "https://github.com/Ksachin1997/React-Assignments---Render-React-Component#readme"
 }
